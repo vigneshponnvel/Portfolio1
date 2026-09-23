@@ -1409,7 +1409,7 @@ footer {
 .vision-bg {
     position: absolute;
     inset: 0;
-    background: url('https://github.com/vigneshponnvel/Portfolio1/blob/main/Macro%20Photography/Drop%20macro%20shot.jpg') center/cover no-repeat;
+    background: url('Macro Photography/Drop macro shot.jpg') center/cover no-repeat;
     filter: brightness(0.35) saturate(1.1);
     z-index: 0;
 }
